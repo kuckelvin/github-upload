@@ -1,4 +1,4 @@
-# This is the project's REDME file
+# This is the project's README file
 
 ## Replace me with important information
 
